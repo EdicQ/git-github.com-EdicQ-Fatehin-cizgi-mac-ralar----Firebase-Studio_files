@@ -1,4 +1,12 @@
 {
     "makefile.makefilePath": "",
-    "files.autoSave": "onWindowChange"
+    "files.autoSave": "onWindowChange",
+    "accessibility.signalOptions.debouncePositionChanges": true,
+    "accessibility.signalOptions.experimental.delays.errorAtPosition": {
+        "announcement": 3000
+    },
+    "explorer.excludeGitIgnore": true,
+    "search.quickOpen.includeSymbols": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "search.useParentIgnoreFiles": true
 }
