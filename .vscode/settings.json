@@ -1,3 +1,4 @@
 {
-    "makefile.makefilePath": ""
+    "makefile.makefilePath": "",
+    "files.autoSave": "onWindowChange"
 }
